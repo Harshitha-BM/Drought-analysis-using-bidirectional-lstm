@@ -4,7 +4,7 @@
 
 \## 📌 Project Description
 
-This project focuses on drought prediction using deep learning techniques, specifically Bidirectional LSTM (BiLSTM). It uses vegetation and temperature indices for analysis.
+This project focuses on drought prediction using deep learning techniques, specifically Bidirectional LSTM (BiLSTM) with hybrid woa-gwo. It uses vegetation and temperature indices for analysis.
 
 
 
